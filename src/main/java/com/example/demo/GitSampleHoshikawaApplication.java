@@ -9,5 +9,9 @@ public class GitSampleHoshikawaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitSampleHoshikawaApplication.class, args);
 	}
+<<<<<<< HEAD
 	//猫カフェ行きてえ
+=======
+	//犬カフェ行きてえ
+>>>>>>> feature/login
 }
